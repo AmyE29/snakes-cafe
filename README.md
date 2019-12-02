@@ -8,14 +8,12 @@ When run, the program prints an intro message and the menu for a restaurant.  It
 
 
 ## Getting Started
-<!-- What are the steps that a user must take in order to build this app on their own machine and get it running? -->
+The user would need to run the app, and follow the prompts.
 
 ## Architecture
-<!-- Provide a detailed description of the application design. What technologies (languages, libraries, etc) you're using, and any other relevant design information. This is also an area which you can include any visuals; flow charts, example usage gifs, screen captures, etc.-->
+Built in Python.  Imported the sys module. 
 
 
 ## Change Log
-<!-- Use this are to document the iterative changes made to your application as each feature is successfully implemented. Use time stamps. Here's an example:
-
-01-01-2001 4:59pm - Added functionality to add and delete some things.
+12-02-2019 2:37pm - Finished the app and it's working properly.
 -->
